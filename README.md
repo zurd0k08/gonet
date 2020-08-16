@@ -1,6 +1,8 @@
 # gonet
 gonet application for test a new work oportunitie
 
+José Pablo Pérez Estrada
+
 
 Preguntas Gonet
 1.- Las capas de la aplicación (por ejemplo capa de persistencia, vistas, red, negocio, etc) y qué clases perte-necen a cual.
