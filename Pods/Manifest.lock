@@ -1,0 +1,27 @@
+PODS:
+  - Alamofire (4.9.1)
+  - EVReflection/Alamofire (5.10.1):
+    - Alamofire
+    - EVReflection/Core
+  - EVReflection/Core (5.10.1)
+  - Kingfisher (4.10.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - EVReflection/Alamofire
+  - Kingfisher (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - EVReflection
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  EVReflection: 8124de482178d34ccd56473e16cd95990f9a1113
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+
+PODFILE CHECKSUM: 065969ce73afc08869c08ff419fd0bda4f79eaa8
+
+COCOAPODS: 1.9.3

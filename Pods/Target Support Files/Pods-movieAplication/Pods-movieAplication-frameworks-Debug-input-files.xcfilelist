@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-movieAplication/Pods-movieAplication-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/EVReflection/EVReflection.framework
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
